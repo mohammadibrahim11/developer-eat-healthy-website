@@ -96,3 +96,105 @@ margin-top: -35px;
     margin-top:70px ;
   
 }
+
+.racipie-section{
+    margin-top: -40px;
+
+}
+
+.racipies{
+    text-align: center;
+}
+.racipies h1{
+    font-size: 52px ;
+   color: #6CC3C8;
+   text-transform: capitalize;
+
+}
+
+.racipies p{
+    font-size: 18px;
+    font-weight: 500;
+color: darkgray;
+  margin-top: -25px;
+margin-bottom: 25px;}
+
+
+.food-recipie-section{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.food-img img{
+    width: 375px;
+    height: 225px;
+    border-radius: 28px;
+    
+    
+}
+
+
+.food-title{
+    font-size: 22px;
+    font-weight: 700;
+
+
+}
+
+.food-project{
+    border: 1px solid white;
+    border-radius: 32px;
+    padding: 30px;
+    margin-top: 25px;
+    box-shadow: -2px -2px 2px 1px  gray;
+ }
+
+ .popularity-section,.popularity{
+    display: flex;
+    justify-content: space-evenly;
+   
+ }
+.popularity div{
+    padding:10px 100px;
+
+}
+
+
+ .popularity {
+    border: 1px solid gray;
+    margin: 70px 70px ;
+    border-radius: 10px ;
+    box-shadow: 5px 5px 20px -7px gray ;
+   
+
+ }
+
+ .popularity div h1{
+    font-size: 40px;
+ }
+
+ .footer-section {
+    text-align: center;
+    background-color: black;
+    font-size: 32px;
+    text-transform: capitalize;
+ }
+
+ .footer-content{
+    color: gainsboro;
+ }
+  
+ .footer-content p{
+    font-size: 18px;
+
+ }
+
+ .padding-top{
+    padding-top:50px ;
+   
+ }
+ .padding-footer{
+    padding-bottom: 30px;
+ }
+
